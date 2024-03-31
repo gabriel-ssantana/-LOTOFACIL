@@ -44,7 +44,5 @@ O projeto oferece as seguintes funcionalidades:
 - O sistema verifica se o número escolhido pelo jogador é par ou ímpar.
 - Se o número escolhido pelo jogador for par, ele ganha um prêmio de R$ 100,00.
 
-## Contribuindo
-
-Sinta-se à vontade para contribuir com este projeto. Basta fazer um fork do repositório, implementar as melhorias desejadas e enviar um pull request. Toda contribuição é bem-vinda!
+## Divirta-se!
 
