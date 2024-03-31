@@ -26,21 +26,21 @@ O projeto oferece as seguintes funcionalidades:
 
 ### Apostar em números de 0 a 100
 
-- O jogador deve escolher um número inteiro entre 0 e 100.
+- O jogador deve escolher um número inteiro entre 0 e 100. 
 - O sistema realiza um sorteio aleatório de um número entre 0 e 100.
 - Se o número escolhido pelo jogador for igual ao número sorteado, ele ganha um prêmio de R$ 1.000,00.
 
 ### Apostar em letras de A à Z
 
 - O jogador deve escolher uma letra de A à Z.
-- O sistema realiza um sorteio aleatório de uma letra de A à Z.
-- Se a letra escolhida pelo jogador for igual à letra sorteada, ele ganha um prêmio de R$ 500,00.
+- O sistema recebe a letra inicial do nome do programador.
+- Se a letra escolhida pelo jogador for igual à letra estabelecida no código, ele ganha um prêmio de R$ 500,00.
 
 ### Apostar em números pares ou ímpares
 
 - O jogador deve escolher um número inteiro.
 - O sistema verifica se o número escolhido pelo jogador é par ou ímpar.
-- Se o número escolhido pelo jogador for par e ele acertar, ele ganha um prêmio de R$ 100,00.
+- Se o número escolhido pelo jogador for par, ele ganha um prêmio de R$ 100,00.
 
 ## Contribuindo
 
