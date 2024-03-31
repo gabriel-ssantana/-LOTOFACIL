@@ -22,6 +22,8 @@ O projeto oferece as seguintes funcionalidades:
 
 5. Siga as instruções exibidas no terminal para fazer suas apostas.
 
+6. Esse projeto foi desenvolvido usando a versão do JDK 8 e não requer bibliotecas externas além das fornecidas pelo própio Java.
+
 ## Regras de cada modalidade
 
 ### Apostar em números de 0 a 100
