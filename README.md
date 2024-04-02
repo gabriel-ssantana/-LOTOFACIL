@@ -1,5 +1,4 @@
-<img src="LotoFácil.gif">
-
+<img src="https://github.com/gabriel-ssantana/-LOTOFACIL/blob/main/LotoFacil.gif">
 
 # Loto Fácil
 
