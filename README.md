@@ -1,3 +1,6 @@
+<img src="LotoFácil.gif">
+
+
 # Loto Fácil
 
 Este é um projeto Java que simula uma loteria chamada Loto Fácil. A loteria permite aos usuários fazerem apostas em três modalidades diferentes: sorteio de números de 0 a 100, sorteio de letras de A à Z e apostas em números pares ou ímpares. Após as apostas, o sistema realiza os sorteios e verifica se os jogadores ganharam algum prêmio de acordo com as regras de cada modalidade.
